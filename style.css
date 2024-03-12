@@ -1,0 +1,9 @@
+body{
+    background-image: url(./medinah.jpg);
+    background-size: cover;
+}
+
+#hadith-cont{
+    height: 100vh;
+}
+
